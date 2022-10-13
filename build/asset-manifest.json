@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-on-cloud/static/css/main.24282609.css",
+    "main.js": "/react-on-cloud/static/js/main.0fda11bd.js",
+    "static/js/787.a174f9e5.chunk.js": "/react-on-cloud/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/react-on-cloud/index.html",
+    "main.24282609.css.map": "/react-on-cloud/static/css/main.24282609.css.map",
+    "main.0fda11bd.js.map": "/react-on-cloud/static/js/main.0fda11bd.js.map",
+    "787.a174f9e5.chunk.js.map": "/react-on-cloud/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24282609.css",
+    "static/js/main.0fda11bd.js"
+  ]
+}
